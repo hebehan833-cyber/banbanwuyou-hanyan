@@ -1,0 +1,7 @@
+{
+  "name": "伴伴无忧 - 专业医疗陪护",
+  "description": "A comprehensive medical escort application providing professional hospital assistance, medicine pickup, and emergency support services with a focus on ease of use and patient safety.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
